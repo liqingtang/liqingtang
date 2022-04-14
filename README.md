@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liqingtang
 - 👀 I’m interested in playing games
-- 🌱 I’m currently learning Java Android on eclipse
-- 💞️ I’m looking to collaborate on learning code more
+- 🌱 I’m currently learning Java Android on eclipse，but learning Arduino recently ！
+- 💞️ I’m looking to collaborate on learning code more，just like useing pronhub as 熟练 as。
 - 📫 How to reach me ...there is my email: piosonlee@gmail.com
 
 <!---
