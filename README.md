@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liqingtang
+- 👋 Hi, I’m @liqingtang, or my English name Pioson Lee
 - 👀 I’m interested in playing games
 - 🌱 I’m currently learning Java Android on eclipse，but learning Arduino recently ！
 - 💞️ I’m looking to collaborate on learning code more，just like useing pronhub as 熟练 as。
